@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @somebodil
+- 👀 I’m interested in developing web server (I'm Full-stack developer but mostly develop back-end server with Spring framework)
+- 🌱 I’m currently learning Deep learning
+- 📫 How to reach me : contact me with somebodil@naver.com
