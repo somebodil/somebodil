@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @somebodil
-- 👀 I’m interested in developing web server (I'm Full-stack developer but mostly develop back-end server with spring)
+- 👀 I’m interested in developing web server (I'm full-stack developer but mostly back-end side using spring)
 - 🌱 I'm also interested in deep learning, especially in natural language processing (Have Master degree for it and publications for it)
 - 📫 How to reach me: contact me with somebodil@naver.com or softluster4753@gmail.com
